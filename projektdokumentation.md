@@ -1,37 +1,41 @@
 # Projekt-Dokumentation
 
-✍️ Ihr Nachname
+Hugo Duarte Novas
 
-| Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | 0.0.2   |                                                              |
-|       | 0.0.3   |                                                              |
-|       | 0.0.4   |                                                              |
-|       | 0.0.5   |                                                              |
-|       | 0.0.6   |                                                              |
-|       | 1.0.0   |                                                              |
+| Datum   | Version | Zusammenfassung                                              |
+| -----   | ------- | ------------------------------------------------------------ |
+|23.1.2023| 0.0.1   | Erstellung und Bearbeitung der Projektdokumentation.         |
+|       | 0.0.2   |                                                                |
+|       | 0.0.3   |                                                                |
+|       | 0.0.4   |                                                                |
+|       | 0.0.5   |                                                                |
+|       | 0.0.6   |                                                                |
+|       | 1.0.0   |                                                                |
 
 # 0 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ich möchte ein Glücksrad programmieren. Dieses sollte möglichst ähnlich wie das TV-Spiel sein.
 
 # 1 Analyse
 
 ✍️ Beschreiben Sie, auf welchem Tier Sie die dynamischen Elemente der Anwendung unterbringen möchten:
 
-* Tier 1 (Presentation): ...
-* Tier 2 (Webserver):
-* Tier 3 (Application Server):
-* Tier 4 (Dataserver):
+* Tier 1 (Presentation): Glückspiel darstellen
+* Tier 2 (Webserver): Eingaben prüfen
+* Tier 3 (Application Server): Prozesse des Glückspiels
+* Tier 4 (Dataserver): Daten vom User speichern
 
 # 2 Technologie
 
-✍️ Beschreiben Sie für dieselben Tiers, welche Programmiersprache bzw. Technologie Sie verwenden möchten.
+* Tier 1 (Presentation): HTML, CSS, Next.js,
+* Tier 2 (Webserver): Next.js
+* Tier 3 (Application Server): Next.js
+* Tier 4 (Dataserver): phpMyAdmin
 
 # 3 Datenbank
 
-✍️ Wie steuern Sie Ihre Datenbank an? Wie ist das Interface aufgebaut? 
+✍️ Wie steuern Sie Ihre Datenbank an? Wie ist das Interface aufgebaut?
+Next.js ist ein FullStack Framework. Weil es eine neue Technologie für mich ist, werde ich versuchen mich möglichst an den Dokumentationen zu halten.
 
 # 4.1 User Stories
 
@@ -41,8 +45,11 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |      Muss       | Funktional   | Als ein Spieler möchte ich mich anmelden können, damit ich meinen höchsten Score sehen kann. |
+| 2    |      Muss       | Funktional   | Als ein Spieler möchte ich Preise verdienen können, damit das Spielerlebnis positiv ist.     |
+| 3    |      Muss       | Funktional   | Als ein Spieler möchte ich Geld einzahlen können, damit ich weitere Drehungen haben kann.    |
+| 4    |      Muss       | Qualität     | Als ein Benutzer möchte ich, dass die Website visuell attraktiv ist, damit ich angeregt werde zum spielen. |
+| 5    |      Kann       | Rand         | Als ein Spieler möchte ich den höchsten Score meiner Freunde sehen können, damit ich es vergleichen kann.  |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
@@ -50,8 +57,9 @@
 
 | TC-№ | Vorbereitung | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Der Spieler ruft die Website auf und drückt auf anmelden | Der Benutzer versucht sich einzumelden | Der User kann seinen höchsten Score sehen  |
+| 2.2  | Der Spieler spielt das Spiel | Der Spieler ratet ein Wort innerhalb einer Anzahl Versuche | Eine Quatität an Geld wird zu seinem Konto addiert |
+| 3.3  | Der Spieler spielt das Spiel | Der Spieler hat kein Geld mehr | Er zahlt Geld ein damit er weitere Drehungen hat |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
