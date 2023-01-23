@@ -68,6 +68,8 @@ Next.js ist ein FullStack Framework. Weil es eine neue Technologie für mich ist
 ✍️ Erstellen Sie Prototypen für das GUI (Admin-Interface und Quiz-Seite).
 
 # 6 Implementation
+![Unbenannt](https://user-images.githubusercontent.com/106603796/214003368-57dbe3aa-677b-4407-8666-93d8d43ca627.PNG)
+
 
 ✍️ Halten Sie fest, wann Sie welche User Story bearbeitet haben
 
