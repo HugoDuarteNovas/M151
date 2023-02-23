@@ -5,11 +5,14 @@ Hugo Duarte Novas
 | Datum   | Version | Zusammenfassung                                              |
 | -----   | ------- | ------------------------------------------------------------ |
 |23.1.2023| 0.0.1   | Erstellung und Bearbeitung der Projektdokumentation.         |
-|       | 0.0.2   |                                                                |
-|       | 0.0.3   |                                                                |
-|       | 0.0.4   |                                                                |
-|       | 0.0.5   |                                                                |
-|       | 0.0.6   |                                                                |
+|12.2.2023| 0.0.2   |Recherche getätigt über mögliche Technologien.                |
+|18.2.2023| 0.0.3   |Next.js als Technologie gewählt und recherchiert              |
+|20.2.2023| 0.0.4   |Erstes Next.js Projekt kreiert. Am gleichen Tag am Abend gelöscht.|
+|21.2.2023| 0.0.5   |Neues Next.js Projekt erstellt. Mit Hilfe eines Tutorials erstellt.|
+|22.2.2023| 0.0.6   |Recherchiert über Next.js und auch über Möglichkeiten wie Spiel erstellen.|
+|22.2.2023| 0.1.0   |Über Express.js Erfahren. Umentscheid und Recherche über diese Technologie.|
+|23.2.2023| 0.1.1   |Login und Datenbank mit Express.js MySQL und Node erstellt.   |
+|23.2.2023| 0.1.2   |                                                              |
 |       | 1.0.0   |                                                                |
 
 # 0 Ihr Projekt
@@ -27,15 +30,15 @@ Ich möchte ein Glücksrad programmieren. Dieses sollte möglichst ähnlich wie 
 
 # 2 Technologie
 
-* Tier 1 (Presentation): HTML, CSS, Next.js,
-* Tier 2 (Webserver): Next.js
-* Tier 3 (Application Server): Next.js
-* Tier 4 (Dataserver): phpMyAdmin
+* Tier 1 (Presentation): HTML, CSS, Express.js,
+* Tier 2 (Webserver): Express.js
+* Tier 3 (Application Server): Node.js
+* Tier 4 (Dataserver): MySQL
 
 # 3 Datenbank
 
 ✍️ Wie steuern Sie Ihre Datenbank an? Wie ist das Interface aufgebaut?
-Next.js ist ein FullStack Framework. Weil es eine neue Technologie für mich ist, werde ich versuchen mich möglichst an den Dokumentationen zu halten.
+Express.js ist ein Open-Source-Webframework. Weil es eine neue Technologie für mich ist, werde ich versuchen mich möglichst an den Dokumentationen zu halten.
 
 # 4.1 User Stories
 
