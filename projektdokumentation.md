@@ -125,13 +125,13 @@ Spiel-Seite:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| 2.2 |        |        |        |
-| 3.3 |      |          |        |
-| 4.4 |        |        |
-| 5.5 |       |        |
-| 6.6 |   |          |        |
-| 7.7 |  |          |        |
+| 1.1  | 27.02.2023      |NOK       | H.D.        |
+| 2.2  | 27.02.2023      |NOK       | H.D.        |
+| 3.3  | 27.02.2023      |NOK       | H.D.        |
+| 4.4  | 27.02.2023      |OK        | H.D.        |
+| 5.5  | 27.02.2023      |OK        | H.D.        |
+| 6.6  | 27.02.2023      |OK        | H.D.        |
+| 7.7  | 27.02.2023      |OK        | H.D.        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
