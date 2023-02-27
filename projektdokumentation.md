@@ -136,7 +136,9 @@ Zum dieses Projekt zu realisieren, müsste ich mich umentscheiden. Ich wollte zu
 
 -2: Ich habe sehr viel Zeit verbracht bei der DB Verknüpfung und der Admin-Seite. Aus zeitlichen Gründen könnte ich nicht weiter an das Spiel arbeiten.
 
-Nichtsdestotrotz habe ich sehr gerne daran gearbeitet, weil ich könnte mich selber beweisen, was ich alles erreichen könnte mit meinen Kenntnissen. Ich war selbst überrascht, dass es so gut lief. Für das nächste Mal würde ich früher beginnen mich über Technologie X zu informieren, da ich tue dies oft unterschätzen.
+Nichtsdestotrotz habe ich sehr gerne daran gearbeitet, weil ich mir selber beweisen könnte, was ich alles erreichen kann mit meinen Kenntnissen. Ich war selbst überrascht, dass es so gut lief. Für das nächste Mal würde ich früher beginnen mich über Technologie X zu informieren, da ich tue dies oft unterschätzen.
+
+Bezüglich der Anforderungen, bin ich zufrieden auch wenn das Spiel nicht wirklich lauft. Mein Hauptziel war es den Admin erstellen zu können. Ich wollte persönlich schon seit längerem mit Datenbank solche coole Sachen machen können und ich habe es schlussendlich geschafft. Ich habe gelernt wie man Daten aufruft und speichert.
 
 # 9 `README.md`
 
