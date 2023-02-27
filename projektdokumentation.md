@@ -108,13 +108,13 @@ Spiel-Seite:
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1        | Ja    | Der Spieler nicht unlimitiert spielen und seine Versuche werden abgezogen.|
+| 1        | Ja    |![carbon (2)](https://user-images.githubusercontent.com/106603796/221520462-d9301417-7b4f-48f2-9054-a2783c61805a.png) Der Spieler nicht unlimitiert spielen und seine Versuche werden abgezogen.|
 | 2        | Nein  |![carbon (1)](https://user-images.githubusercontent.com/106603796/221519980-f37c79a4-4031-4a4f-b313-55570250609e.png) Der Spieler verdient Preise. Der Code ist nicht ausführbar, aber habe ein Code wo dies machen kann.|
 | 3        | Nein  | Der Spieler kann kein Geld einzahlen, sondern nur gewinnen. Der Code ist nicht ausführbar, aber habe ein Code wo dies machen kann.|
-| 4        | Ja    | Der Login wurde erstellt und mit der DB verknüpft.|
-| 5        | Ja    | Die Inputfields wurden erstellt und mit der DB verknüpft.|
+| 4        | Ja    |![carbon (3)](https://user-images.githubusercontent.com/106603796/221520806-3076521b-b1ac-4ba5-bd81-f8ed481ac023.png) Der Login wurde erstellt und mit der DB verknüpft.|
+| 5        | Ja    |![carbon (4)](https://user-images.githubusercontent.com/106603796/221520963-1da211cc-59b0-4281-abd2-a2833b311b5c.png) Die Inputfields wurden erstellt und mit der DB verknüpft.|
 | 6        | Ja    | Der "Play" Button wurde hinzugefügt.|
-| 7        | Ja    | Das Design der Admin-Seite war bereits anfangs Projekt erstellt. Aber es wurde erst fertig, sobald ich die .css-Datei des Spieles fertig gestellt habe.|
+| 7        | Ja    |![carbon (5)](https://user-images.githubusercontent.com/106603796/221521256-90b2a49d-fb55-4f07-804a-966b6490afc0.png) Das Design der Admin-Seite war bereits anfangs Projekt erstellt. Aber es wurde erst fertig, sobald ich die .css-Datei des Spieles fertig gestellt habe.|
 # 8 Testprotokoll
 
 ✍️ Fügen Sie hier den Link zu dem Video ein, welches den Testdurchlauf dokumentiert.
