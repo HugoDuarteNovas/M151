@@ -102,8 +102,7 @@ Express.js ist ein Open-Source-Webframework. Weil es eine neue Technologie für 
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1        | Ja    | 
-![Unbenannt](https://user-images.githubusercontent.com/106603796/214003368-57dbe3aa-677b-4407-8666-93d8d43ca627.PNG) Der Spieler nicht unlimitiert spielen und seine Versuche werden abgezogen.|
+| 1        | Ja    | Der Spieler nicht unlimitiert spielen und seine Versuche werden abgezogen.|
 | 2        | Nein  | Der Spieler verdient Preise. Der Code ist nicht ausführbar, aber habe ein Code wo dies machen kann.|
 | 3        | Nein  | Der Spieler kann kein Geld einzahlen, sondern nur gewinnen. Der Code ist nicht ausführbar, aber habe ein Code wo dies machen kann.|
 | 4        | Ja    | Der Login wurde erstellt und mit der DB verknüpft.|
