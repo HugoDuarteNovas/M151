@@ -109,7 +109,7 @@ Spiel-Seite:
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
 | 1        | Ja    | Der Spieler nicht unlimitiert spielen und seine Versuche werden abgezogen.|
-| 2        | Nein  | Der Spieler verdient Preise. Der Code ist nicht ausführbar, aber habe ein Code wo dies machen kann.|
+| 2        | Nein  |![carbon (1)](https://user-images.githubusercontent.com/106603796/221519980-f37c79a4-4031-4a4f-b313-55570250609e.png) Der Spieler verdient Preise. Der Code ist nicht ausführbar, aber habe ein Code wo dies machen kann.|
 | 3        | Nein  | Der Spieler kann kein Geld einzahlen, sondern nur gewinnen. Der Code ist nicht ausführbar, aber habe ein Code wo dies machen kann.|
 | 4        | Ja    | Der Login wurde erstellt und mit der DB verknüpft.|
 | 5        | Ja    | Die Inputfields wurden erstellt und mit der DB verknüpft.|
