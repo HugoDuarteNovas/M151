@@ -90,21 +90,25 @@ Express.js ist ein Open-Source-Webframework. Weil es eine neue Technologie für 
 
 | User Story | Datum | Beschreibung |
 | ---------- | ----- | ------------ |
-| 1        | 26.02.2023       |              |
-| 2        | 26.02.2023       |              |
-| 3        | 26.02.2023       |              |
-| 4        | 24.02.2023       |              |
-| 5        | 24.02.2023       |              |
-| 6        | 24.02.2023       |              |
-| 7        | 24.02.2023       |Das Design der Admin-Seite war bereits Anfangs Projekt erstellt. Aber es wurde erst fertig, sobald ich die .css-Datei des Spieles fertig gestellt habe.|
+| 1        | 26.02.2023       |Der Spieler kann sich nicht anmelden und auch keinen Highscore sehen. Aus zeitlichen Gründen könnte ich dies nicht implementieren.|
+| 2        | 26.02.2023       |Der Spieler verdient Preise. Der Code ist nicht ausführbar, aber habe ein Code wo dies machen kann.|
+| 3        | 26.02.2023       |Der Spieler kann kein Geld einzahlen, sondern nur gewinnen. Der Code ist nicht ausführbar, aber habe ein Code wo dies machen kann.|
+| 4        | 24.02.2023       |Der Login wurde erstellt und mit der DB verknüpft.|
+| 5        | 24.02.2023       |Die Inputfields wurden erstellt und mit der DB verknüpft.|
+| 6        | 24.02.2023       |Der "Play" Button wurde hinzugefügt.|
+| 7        | 24.02.2023       |Das Design der Admin-Seite war bereits anfangs Projekt erstellt. Aber es wurde erst fertig, sobald ich die .css-Datei des Spieles fertig gestellt habe.|
 
 # 7 Projektdokumentation
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1    | ja / nein |                                           |
-| ...  |           |                                           |
-
+| 1        | Nein  | Der Spieler kann sich nicht anmelden und auch keinen Highscore sehen. Aus zeitlichen Gründen könnte ich dies nicht implementieren.|
+| 2        | Nein  | Der Spieler verdient Preise. Der Code ist nicht ausführbar, aber habe ein Code wo dies machen kann.|
+| 3        | Nein  | Der Spieler kann kein Geld einzahlen, sondern nur gewinnen. Der Code ist nicht ausführbar, aber habe ein Code wo dies machen kann.|
+| 4        | Ja    | Der Login wurde erstellt und mit der DB verknüpft.|
+| 5        | Ja    | Die Inputfields wurden erstellt und mit der DB verknüpft.|
+| 6        | Ja    | Der "Play" Button wurde hinzugefügt.|
+| 7        | Ja    | Das Design der Admin-Seite war bereits anfangs Projekt erstellt. Aber es wurde erst fertig, sobald ich die .css-Datei des Spieles fertig gestellt habe.|
 # 8 Testprotokoll
 
 ✍️ Fügen Sie hier den Link zu dem Video ein, welches den Testdurchlauf dokumentiert.
