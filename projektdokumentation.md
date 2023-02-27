@@ -32,6 +32,7 @@ Ich möchte ein Glücksrad programmieren. Dieses sollte möglichst ähnlich wie 
 * Tier 4 (Dataserver): Daten vom User und Admin speichern
 
 # 2 Technologie
+Um dieses Projekt zu realisieren habe ich mich dazu entschieden, mit HTML und CSS für mein Front-End und Express.js für mein Back-End zu verwenden. Ich würde dann Front- und Back-End mit Node.js verbinden. Ich wollte mit diesen Technologien arbeiten, weil sie mir am einfachsten vorkammen, als ich mich informiert und einarbeitet hatte. Mit HTML und CSS habe ich bereits Erfahrung. Express.js und Node.js sind aber neu für mich.
 
 * Tier 1 (Presentation): HTML, CSS, Express.js,
 * Tier 2 (Webserver): Node.js, Express.js
@@ -120,6 +121,7 @@ Meine DB-Lösung wurde mit MySQL erstellt, sie wird mit Node.js angesteuert. So 
 | ...  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Zum dieses Projekt zu realisieren, müsste ich mich umentscheiden. Ich wollte zuerst mit Next.js arbeiten, aber es war für mich zu komplex aufgebaut, also nach einer Recherche entschied ich mich f
 
 # 9 `README.md`
 
