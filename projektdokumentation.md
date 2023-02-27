@@ -90,7 +90,13 @@ Express.js ist ein Open-Source-Webframework. Weil es eine neue Technologie für 
 
 | User Story | Datum | Beschreibung |
 | ---------- | ----- | ------------ |
-| ...        |       |              |
+| 1        | 26.02.2023       |              |
+| 2        | 26.02.2023       |              |
+| 3        | 26.02.2023       |              |
+| 4        | 24.02.2023       |              |
+| 5        | 24.02.2023       |              |
+| 6        | 24.02.2023       |              |
+| 7        | 24.02.2023       |Das Design der Admin-Seite war bereits Anfangs Projekt erstellt. Aber es wurde erst fertig, sobald ich die .css-Datei des Spieles fertig gestellt habe.|
 
 # 7 Projektdokumentation
 
