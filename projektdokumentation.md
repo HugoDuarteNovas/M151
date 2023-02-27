@@ -43,7 +43,8 @@ Um dieses Projekt zu realisieren habe ich mich dazu entschieden, mit HTML und CS
 
 ✍️ Wie steuern Sie Ihre Datenbank an? Wie ist das Interface aufgebaut?
 Express.js ist ein Open-Source-Webframework. Weil es eine neue Technologie für mich ist, werde ich versuchen mich möglichst an den Dokumentationen zu halten.
-Meine DB-Lösung wurde mit MySQL erstellt, sie wird mit Node.js angesteuert. So sieht es aus:
+Meine DB-Lösung wurde mit MySQL erstellt, sie wird mit Node.js angesteuert. 
+So sieht es aus:
 ![Unbenannt3](https://user-images.githubusercontent.com/106603796/221524715-3d85cc89-be7e-42dd-8b00-b1d43ecdf212.PNG)
 
 
@@ -128,7 +129,9 @@ Spiel-Seite:
 | ...  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-Zum dieses Projekt zu realisieren, müsste ich mich umentscheiden. Ich wollte zuerst mit Next.js arbeiten, aber es war für mich zu komplex aufgebaut, also nach einer Recherche entschied ich mich f
+Zum dieses Projekt zu realisieren, müsste ich mich umentscheiden. Ich wollte zuerst mit Next.js arbeiten, aber es war für mich zu komplex aufgebaut, also nach einer Recherche entschied ich mich für Express.js. Da es eine neue Technologie für mich ist, könnte ich das Spiel nicht vollständigen zum laufen bringen. Dies aus den folgenden zwei Gründen:
+-1: Wie es auf das Video zu sehen ist, werden sämtliche .js-Dateien nicht geladen, obwohl sie richtig verbunden und gecodet sind.
+-2: Ich habe sehr viel Zeit verbracht bei der DB Verknüpfung und der Admin-Seite. Aus zeitlichen Gründen könnte ich nicht weiter an das Spiel arbeiten.
 
 # 9 `README.md`
 
