@@ -129,11 +129,14 @@ Spiel-Seite:
 | ...  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+
 Zum dieses Projekt zu realisieren, müsste ich mich umentscheiden. Ich wollte zuerst mit Next.js arbeiten, aber es war für mich zu komplex aufgebaut, also nach einer Recherche entschied ich mich für Express.js. Da es eine neue Technologie für mich ist, könnte ich das Spiel nicht vollständigen zum laufen bringen. Dies aus den folgenden zwei Gründen:
 
 -1: Wie es auf das Video zu sehen ist, werden sämtliche .js-Dateien nicht geladen, obwohl sie richtig verbunden und gecodet sind.
 
 -2: Ich habe sehr viel Zeit verbracht bei der DB Verknüpfung und der Admin-Seite. Aus zeitlichen Gründen könnte ich nicht weiter an das Spiel arbeiten.
+
+Nichtsdestotrotz habe ich sehr gerne daran gearbeitet, weil ich könnte mich selber beweisen, was ich alles erreichen könnte mit meinen Kenntnissen. Ich war selbst überrascht, dass es so gut lief. Für das nächste Mal würde ich früher beginnen mich über Technologie X zu informieren, da ich tue dies oft unterschätzen.
 
 # 9 `README.md`
 
