@@ -54,7 +54,7 @@ Express.js ist ein Open-Source-Webframework. Weil es eine neue Technologie für 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |      Kann       | Funktional   | Als ein Spieler möchte ich mich anmelden können, damit ich meinen höchsten Score sehen kann. |
+| 1    |      Kann       | Funktional   | Als ein Spieler möchte ich eine Anzahl an Versuche haben, damit ich auch verlieren kann. |
 | 2    |      Muss       | Funktional   | Als ein Spieler möchte ich Preise verdienen können, damit das Spielerlebnis positiv ist.     |
 | 3    |      Muss       | Funktional   | Als ein Spieler möchte ich Geld einzahlen können, damit ich weitere Drehungen haben kann.    |
 | 4    |      Muss       | Funktional   | Als ein Admin möchte ich mich sicher einloggen können, damit ich neue Wörter hinzufügen kann.|
@@ -70,8 +70,8 @@ Express.js ist ein Open-Source-Webframework. Weil es eine neue Technologie für 
 
 | TC-№ | Vorbereitung | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Der Spieler ruft die Website auf und drückt auf anmelden | Der Benutzer versucht sich einzumelden | Der User kann seinen höchsten Score sehen  |
-| 2.2  | Der Spieler spielt das Spiel | Der Spieler ratet ein Wort innerhalb einer Anzahl Versuche | Eine Quatität an Geld wird zu seinem Konto addiert |
+| 1.1  | Der Spieler ruft die Website auf und spielt das Spiel | Der Spieler verliert das Spiel | Der Spieler hat verloren und einen Message erscheint   |
+| 2.2  | Der Spieler spielt das Spiel | Der Spieler ratet ein Wort innerhalb einer Anzahl Versuche | Eine Quantität an Geld wird zu seinem Konto addiert |
 | 3.3  | Der Spieler spielt das Spiel | Der Spieler hat kein Geld mehr | Er zahlt Geld ein damit er weitere Drehungen hat |
 | 4.4  | Der Admin ruft die Website auf und drückt auf Login | Der Admin loggt sich ein | Er kann eine neue Seite sehen |
 | 5.5  | Der Admin hat sich eingeloggt | Der Admin gibt ein Wort und ein Hint in den Feldern ein | Das Wort und der Hint sind auf der DB zu sehen |
@@ -102,7 +102,7 @@ Express.js ist ein Open-Source-Webframework. Weil es eine neue Technologie für 
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1        | Nein  | Der Spieler kann sich nicht anmelden und auch keinen Highscore sehen. Aus zeitlichen Gründen könnte ich dies nicht implementieren.|
+| 1        | Ja    | Der Spieler nicht unlimitiert spielen und seine Versuche werden abgezogen.|
 | 2        | Nein  | Der Spieler verdient Preise. Der Code ist nicht ausführbar, aber habe ein Code wo dies machen kann.|
 | 3        | Nein  | Der Spieler kann kein Geld einzahlen, sondern nur gewinnen. Der Code ist nicht ausführbar, aber habe ein Code wo dies machen kann.|
 | 4        | Ja    | Der Login wurde erstellt und mit der DB verknüpft.|
