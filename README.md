@@ -16,6 +16,8 @@ cd nodelogin
 
 node login.js
 
+5: localhost:3000 besuchen.
+
 Falls es Unklarheiten gibt, bitte sehen Sie das verlinkte Video auf meiner YouTube-Kanal.
 
 Viel Spass!
