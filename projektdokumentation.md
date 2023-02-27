@@ -70,7 +70,6 @@ So sieht es aus:
 | 6    |      Muss       | Funktional   | Als ein Admin möchte ich die Wahl haben mich einloggen sowie spielen können, damit ich weiss wie die User-Experience ist.|
 | 7    |      Muss       | Qualität     | Als ein Benutzer möchte ich, dass die Website visuell attraktiv ist, damit ich angeregt werde zum spielen. |
 | 8    |      Kann       | Rand         | Als ein Spieler möchte ich den höchsten Score meiner Freunde sehen können, damit ich es vergleichen kann.  |
-| A    |      Kann       | Rand         | Als ein Spieler möchte ich eine Wahl an Spiele haben, damit es mir nicht langweilig wird.  |
 
 
 # 4.2 Testfälle
