@@ -44,7 +44,9 @@ Um dieses Projekt zu realisieren habe ich mich dazu entschieden, mit HTML und CS
 ✍️ Wie steuern Sie Ihre Datenbank an? Wie ist das Interface aufgebaut?
 Express.js ist ein Open-Source-Webframework. Weil es eine neue Technologie für mich ist, werde ich versuchen mich möglichst an den Dokumentationen zu halten.
 Meine DB-Lösung wurde mit MySQL erstellt, sie wird mit Node.js angesteuert. 
+
 So sieht es aus:
+
 ![Unbenannt3](https://user-images.githubusercontent.com/106603796/221524715-3d85cc89-be7e-42dd-8b00-b1d43ecdf212.PNG)
 
 
