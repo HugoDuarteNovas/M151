@@ -49,6 +49,9 @@ Express.js ist ein Open-Source-Webframework. Weil es eine neue Technologie für 
 
 ✍️ Formulieren Sie weitere, eigene Anforderungen und Testfälle, wie Sie Ihre Applikation erweitern möchten. Geben Sie diesen statt einer Nummer einen Buchstaben (`A`, `B`, etc.)
 
+✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
+
+
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |      Kann       | Funktional   | Als ein Spieler möchte ich mich anmelden können, damit ich meinen höchsten Score sehen kann. |
@@ -59,10 +62,11 @@ Express.js ist ein Open-Source-Webframework. Weil es eine neue Technologie für 
 | 6    |      Muss       | Funktional   | Als ein Admin möchte ich die Wahl haben mich einloggen sowie spielen können, damit ich weiss wie die User-Experience ist.|
 | 7    |      Muss       | Qualität     | Als ein Benutzer möchte ich, dass die Website visuell attraktiv ist, damit ich angeregt werde zum spielen. |
 | 8    |      Kann       | Rand         | Als ein Spieler möchte ich den höchsten Score meiner Freunde sehen können, damit ich es vergleichen kann.  |
+| A    |      Kann       | Rand         | Als ein Spieler möchte ich eine Wahl an Spiele haben, damit es mir nicht langweilig wird.  |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
 # 4.2 Testfälle
+✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 | TC-№ | Vorbereitung | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
@@ -74,7 +78,6 @@ Express.js ist ein Open-Source-Webframework. Weil es eine neue Technologie für 
 | 6.6  | Der Admin ruft die Website auf | Der Admin drückt auf Play | Er kann auch das Spiel spielen |
 | 7.7  | Der Spieler ruft die Website auf | Der sieht die Website und das Spiel | Er wird angeregt zum spielen |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 # 5 Prototyp
 
