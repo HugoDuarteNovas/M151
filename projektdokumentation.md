@@ -89,6 +89,7 @@ So sieht es aus:
 # 5 Prototyp
 
 ✍️ Erstellen Sie Prototypen für das GUI (Admin-Interface und Quiz-Seite).
+
 Admin-Interface:
 ![Unbenannt2](https://user-images.githubusercontent.com/106603796/221519612-2a940b98-3ed5-44a1-ba62-79a437dc80f8.PNG)
 
