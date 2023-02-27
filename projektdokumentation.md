@@ -123,6 +123,8 @@ Spiel-Seite:
 
 ✍️ Fügen Sie hier den Link zu dem Video ein, welches den Testdurchlauf dokumentiert.
 
+https://youtu.be/77VYPnvYFgw
+
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  | 27.02.2023      |NOK       | H.D.        |
