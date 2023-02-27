@@ -84,6 +84,10 @@ Meine DB-Lösung wurde mit MySQL erstellt, sie wird mit Node.js angesteuert. So 
 # 5 Prototyp
 
 ✍️ Erstellen Sie Prototypen für das GUI (Admin-Interface und Quiz-Seite).
+Admin-Interface:
+![Unbenannt2](https://user-images.githubusercontent.com/106603796/221519612-2a940b98-3ed5-44a1-ba62-79a437dc80f8.PNG)
+
+Spiel-Seite:
 ![Unbenannt](https://user-images.githubusercontent.com/106603796/214003368-57dbe3aa-677b-4407-8666-93d8d43ca627.PNG)
 
 # 6 Implementation
