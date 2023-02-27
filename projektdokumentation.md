@@ -12,8 +12,11 @@ Hugo Duarte Novas
 |22.2.2023| 0.0.6   |Recherchiert über Next.js und auch über Möglichkeiten wie Spiel erstellen.|
 |22.2.2023| 0.1.0   |Über Express.js Erfahren. Umentscheid und Recherche über diese Technologie.|
 |23.2.2023| 0.1.1   |Login und Datenbank mit Express.js MySQL und Node erstellt.   |
-|23.2.2023| 0.1.2   |                                                              |
-|       | 1.0.0   |                                                                |
+|24.2.2023| 0.1.2   |Admin-Login-Funktion implementiert.                           |
+|24.2.2023| 0.1.3   |Admin-Wörter-Funktion angefangen zu implementieren.           |
+|24.2.2023| 0.1.4   |Mit Admin-Wörter-Funktion fertig geworden und mit Spiel angefangen.|
+|26.2.2023| 0.1.5   |Spiel mit Hilfe eines Tutorials erstellt.                     |
+|27.2.2023| 1.0.0   |Projekt abgegeben.                                            |
 
 # 0 Ihr Projekt
 
@@ -26,7 +29,7 @@ Ich möchte ein Glücksrad programmieren. Dieses sollte möglichst ähnlich wie 
 * Tier 1 (Presentation): Glückspiel darstellen
 * Tier 2 (Webserver): Eingaben prüfen
 * Tier 3 (Application Server): Prozesse des Glückspiels
-* Tier 4 (Dataserver): Daten vom User speichern
+* Tier 4 (Dataserver): Daten vom User und Admin speichern
 
 # 2 Technologie
 
@@ -48,11 +51,14 @@ Express.js ist ein Open-Source-Webframework. Weil es eine neue Technologie für 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |      Muss       | Funktional   | Als ein Spieler möchte ich mich anmelden können, damit ich meinen höchsten Score sehen kann. |
+| 1    |      Kann       | Funktional   | Als ein Spieler möchte ich mich anmelden können, damit ich meinen höchsten Score sehen kann. |
 | 2    |      Muss       | Funktional   | Als ein Spieler möchte ich Preise verdienen können, damit das Spielerlebnis positiv ist.     |
 | 3    |      Muss       | Funktional   | Als ein Spieler möchte ich Geld einzahlen können, damit ich weitere Drehungen haben kann.    |
-| 4    |      Muss       | Qualität     | Als ein Benutzer möchte ich, dass die Website visuell attraktiv ist, damit ich angeregt werde zum spielen. |
-| 5    |      Kann       | Rand         | Als ein Spieler möchte ich den höchsten Score meiner Freunde sehen können, damit ich es vergleichen kann.  |
+| 4    |      Muss       | Funktional   | Als ein Admin möchte ich mich sicher einloggen können, damit ich neue Wörter hinzufügen kann.|
+| 5    |      Muss       | Funktional   | Als ein Admin möchte ich Wörter hinzufügen können, damit der Spieler mehrere Wörter haben kann.|
+| 6    |      Muss       | Funktional   | Als ein Admin möchte ich die Wahl haben mich einloggen sowie spielen können, damit ich weiss wie die User-Experience ist.|
+| 7    |      Muss       | Qualität     | Als ein Benutzer möchte ich, dass die Website visuell attraktiv ist, damit ich angeregt werde zum spielen. |
+| 8    |      Kann       | Rand         | Als ein Spieler möchte ich den höchsten Score meiner Freunde sehen können, damit ich es vergleichen kann.  |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
@@ -63,6 +69,10 @@ Express.js ist ein Open-Source-Webframework. Weil es eine neue Technologie für 
 | 1.1  | Der Spieler ruft die Website auf und drückt auf anmelden | Der Benutzer versucht sich einzumelden | Der User kann seinen höchsten Score sehen  |
 | 2.2  | Der Spieler spielt das Spiel | Der Spieler ratet ein Wort innerhalb einer Anzahl Versuche | Eine Quatität an Geld wird zu seinem Konto addiert |
 | 3.3  | Der Spieler spielt das Spiel | Der Spieler hat kein Geld mehr | Er zahlt Geld ein damit er weitere Drehungen hat |
+| 4.4  | Der Admin ruft die Website auf und drückt auf Login | Der Admin loggt sich ein | Er kann eine neue Seite sehen |
+| 5.5  | Der Admin hat sich eingeloggt | Der Admin gibt ein Wort und ein Hint in den Feldern ein | Das Wort und der Hint sind auf der DB zu sehen |
+| 6.6  | Der Admin ruft die Website auf | Der Admin drückt auf Play | Er kann auch das Spiel spielen |
+| 7.7  | Der Spieler ruft die Website auf | Der sieht die Website und das Spiel | Er wird angeregt zum spielen |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
