@@ -34,9 +34,9 @@ Ich möchte ein Glücksrad programmieren. Dieses sollte möglichst ähnlich wie 
 # 2 Technologie
 
 * Tier 1 (Presentation): HTML, CSS, Express.js,
-* Tier 2 (Webserver): Express.js
-* Tier 3 (Application Server): Node.js
-* Tier 4 (Dataserver): MySQL
+* Tier 2 (Webserver): Node.js, Express.js
+* Tier 3 (Application Server): Node.js, Express.js
+* Tier 4 (Dataserver): MySQL Workbench
 
 # 3 Datenbank
 
