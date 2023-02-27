@@ -42,6 +42,7 @@ Ich möchte ein Glücksrad programmieren. Dieses sollte möglichst ähnlich wie 
 
 ✍️ Wie steuern Sie Ihre Datenbank an? Wie ist das Interface aufgebaut?
 Express.js ist ein Open-Source-Webframework. Weil es eine neue Technologie für mich ist, werde ich versuchen mich möglichst an den Dokumentationen zu halten.
+Meine DB-Lösung wurde mit MySQL erstellt, sie wird mit Node.js angesteuert. So sieht es aus:
 
 # 4.1 User Stories
 
@@ -90,13 +91,13 @@ Express.js ist ein Open-Source-Webframework. Weil es eine neue Technologie für 
 
 | User Story | Datum | Beschreibung |
 | ---------- | ----- | ------------ |
-| 1        | 26.02.2023       |Der Spieler kann sich nicht anmelden und auch keinen Highscore sehen. Aus zeitlichen Gründen könnte ich dies nicht implementieren.|
-| 2        | 26.02.2023       |Der Spieler verdient Preise. Der Code ist nicht ausführbar, aber habe ein Code wo dies machen kann.|
-| 3        | 26.02.2023       |Der Spieler kann kein Geld einzahlen, sondern nur gewinnen. Der Code ist nicht ausführbar, aber habe ein Code wo dies machen kann.|
-| 4        | 24.02.2023       |Der Login wurde erstellt und mit der DB verknüpft.|
-| 5        | 24.02.2023       |Die Inputfields wurden erstellt und mit der DB verknüpft.|
-| 6        | 24.02.2023       |Der "Play" Button wurde hinzugefügt.|
-| 7        | 24.02.2023       |Das Design der Admin-Seite war bereits anfangs Projekt erstellt. Aber es wurde erst fertig, sobald ich die .css-Datei des Spieles fertig gestellt habe.|
+| 1        | 26.02.2023       |Als ein Spieler möchte ich eine Anzahl an Versuche haben, damit ich auch verlieren kann.|
+| 2        | 26.02.2023       |Als ein Spieler möchte ich Preise verdienen können, damit das Spielerlebnis positiv ist.     |
+| 3        | 26.02.2023       |Als ein Spieler möchte ich Geld einzahlen können, damit ich weitere Drehungen haben kann.|
+| 4        | 24.02.2023       |Als ein Admin möchte ich mich sicher einloggen können, damit ich neue Wörter hinzufügen kann.|
+| 5        | 24.02.2023       |Als ein Admin möchte ich Wörter hinzufügen können, damit der Spieler mehrere Wörter haben kann.|
+| 6        | 24.02.2023       |Als ein Admin möchte ich die Wahl haben mich einloggen sowie spielen können, damit ich weiss wie die User-Experience ist.|
+| 7        | 24.02.2023       |Als ein Benutzer möchte ich, dass die Website visuell attraktiv ist, damit ich angeregt werde zum spielen.|
 
 # 7 Projektdokumentation
 
